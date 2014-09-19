@@ -76,14 +76,16 @@ How to use the function 'Open in local root dir' ?
 
 * Warning: This options actually work only with both local and remote dir on your local host (no remote host for the moment)
     		  
-How to change shortcuts of the plugin  --------------------
+How to change shortcuts of the plugin
+-------------------- 
     		
 * Download <a href='http://panic.com/coda/d/Coda%20Plug-in%20Creator.zip' >Coda Plugin Creator</a> 
 * Open the plugin 'Comparator' with 'Coda Plugin Creator'
 * Change the keys, for the shortcuts you want. Then 'Save' the new plugin.
 * Open the new plugin you just created with 'Coda'. When asked, choose 'overwrite the plugin'. 
 
-What's the default launch order for diff tools --------------------
+What's the default launch order for diff tools
+-------------------- 
     		
 Coda comparator plugin will launch the first diff tool it finds in this order :
 * your own script (if you have a symlink 'codacomparediff' in your /usr/local/bin) 
