@@ -19,7 +19,11 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
+	<string>1.3</string>
+	<key>CFBundleShortVersionString</key>
+	<string>v13</string>
+	<key>CFBundleName</key>
+	<string>Comparator</string>
 	<key>CodaAuthorString</key>
 	<string>WEBER Antoine</string>
 	<key>CodaDescriptionString</key>
@@ -396,20 +400,6 @@
 			<string>replace.bash</string>
 			<key>uuid</key>
 			<string>2D727498-C4B1-4B8B-BB6F-187A9502F5F6</string>
-		</dict>
-		<dict>
-			<key>fallbackInput</key>
-			<string>none</string>
-			<key>keyEquivalentConflict</key>
-			<false/>
-			<key>name</key>
-			<string>Open in Local root dir</string>
-			<key>output</key>
-			<string>newDocument</string>
-			<key>script</key>
-			<string>echo.bash</string>
-			<key>uuid</key>
-			<string>891FE077-2AE7-4555-972A-F55D8DF8704F</string>
 		</dict>
 		<dict>
 			<key>children</key>
