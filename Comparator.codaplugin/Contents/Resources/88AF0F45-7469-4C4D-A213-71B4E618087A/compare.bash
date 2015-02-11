@@ -383,7 +383,7 @@ fi
 
 #Essaye d'executer TextWrangler's diff (verifie presence du fichier)
 twdiff="/usr/local/bin/twdiff"
-if [[ $priorite -eq 16 && -f $chg ]]
+if [[ $priorite -eq 16 && -f $twdiff ]]
 then
 nohup $twdiff $fichier_gauche $fichier_droit >/dev/null 2>&1 &
 exit
