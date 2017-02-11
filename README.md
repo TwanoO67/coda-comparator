@@ -106,3 +106,7 @@ Coda comparator plugin will launch the first diff tool it finds in this order :
 * Changes from BitBQ
 
 plugin written by [Weber Antoine](http://www.weberantoine.fr) 2012, Questions/Improvements ? [mail me!](mailto:pro@weberantoine.fr)
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/TwanoO67/coda-comparator/badge.svg?style=beer-square)](https://beerpay.io/TwanoO67/coda-comparator)  [![Beerpay](https://beerpay.io/TwanoO67/coda-comparator/make-wish.svg?style=flat-square)](https://beerpay.io/TwanoO67/coda-comparator?focus=wish)
